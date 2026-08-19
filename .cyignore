@@ -1,0 +1,10 @@
+# Documentation
+images
+imports/mtb-pmbus
+imports/mtb-oscilloscope
+
+# Exports, Project settings
+.mtbLaunchConfigs
+.settings
+.vscode
+
